@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<!--
+	Spectral by HTML5 UP	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>NovaCityRP</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+  </head>
+  <body class="landing is-preload">
+    <!-- Page Wrapper -->
+    <div id="page-wrapper">
+      <!-- Header -->
+      <header id="header" class="alt">
+        <h1><a href="index.html">Spectral</a></h1>
+        <nav id="nav">
+          <ul>
+            <li class="special"> <a href="#menu" class="menuToggle"><span>Menu</span></a>
+              <div id="menu">
+                <ul>
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="generic.html">Generic</a></li>
+                  <li><a href="elements.html">Elements</a></li>
+                  <li><a href="#">Sign Up</a></li>
+                  <li><a href="#">Log In</a></li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+        </nav>
+      </header>
+      <!-- Banner -->
+      <section id="banner">
+        <div class="inner">
+          <h2>Madeinrp</h2>
+          <p>Un roleplay completamente italiano</p>
+          <ul class="actions special">
+            <li><a href="https://discord.gg/J7zyYgTa2y" class="button primary">il
+                discord</a><a href="#one" class="more scrolly">i creatori</a></li>
+          </ul>
+        </div>
+      </section>
+      <section id="one" class="wrapper style1 special">
+        <div class="inner">
+          <header class="major">
+            <h2>i creatori di novacity</h2>
+            <p>NovaCity RP è stata resa possibile grazie ad Filipeti,
+              ImNotPalma, ImAndrew</p>
+          </header>
+          <ul class="icons major">
+            <li><span class="icon solid fa-code major style3"><span class="label">Dolo</span></span><a
+                href="#"></a></li>
+          </ul>
+        </div>
+      </section>
+      <!-- Two -->
+      <section id="two" class="wrapper alt style2">
+        <section class="spotlight">
+          <div class="image"><br>
+          </div>
+          <div class="content">
+            <h2>gli sviluppatori</h2>
+            <p>Il bot Discord, l'hosting e i plugin personalizzati sono resi
+              possibili da:</p>
+            <p>(Discord bot, hosting e pluginner): ImAndrew</p>
+            <p>(Pluginner): SaveYT</p>
+          </div>
+        </section>
+        <section class="spotlight">
+          <div class="image"><br>
+          </div>
+          <br>
+          <div class="content">
+            <h2>&nbsp; I NOSTRI SOCIAL</h2>
+          </div>
+        </section>
+      </section>
+      <section id="cta" class="wrapper style4">
+        <div class="inner">
+          <header>
+            <p>Entra nei nostri social, per essere informato e chattare!</p>
+          </header>
+          <ul class="actions stacked">
+            <li><a href="https://discord.gg/J7zyYgTa2y" class="button fit primary">DISCORD</a></li>
+            <li><a href="https://t.me/MadeInRp" class="button fit">telegram</a></li>
+          </ul>
+        </div>
+      </section>
+      <!-- Footer -->
+      <footer id="footer">
+        <ul class="icons">
+          <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+          <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+          <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+          <li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+          <li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+        </ul>
+        <ul class="copyright">
+          <li>© Untitled</li>
+          <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+        </ul>
+      </footer>
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
